@@ -1,0 +1,19 @@
+{
+  "name": "book-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaryVPie/book-search.git"
+  },
+  "author": "mvpie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaryVPie/book-search/issues"
+  },
+  "homepage": "https://github.com/MaryVPie/book-search#readme"
+}
